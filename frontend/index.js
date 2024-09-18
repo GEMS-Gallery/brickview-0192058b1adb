@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const imageContainer = document.getElementById('image-container');
     const img = document.createElement('img');
-    img.src = 'https://images.thdstatic.com/productImages/d9c8f1b5-9764-4b5e-a9d3-7303f0383fa3/svn/bricks-red0126mco-64_1000.jpg';
-    img.alt = 'Brick';
+    img.src = 'https://t3.ftcdn.net/jpg/01/36/83/78/360_F_136837876_CHgC2LxHviEPGOX2ifuOFBnhDvHX5HV8.jpg';
+    img.alt = 'Brick Wall';
     img.className = 'brick-image';
     imageContainer.appendChild(img);
 });
